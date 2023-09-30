@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-
+This repository explains how to observe various network traffic to and from Azure Virtual Machines with Wireshark and PowerShell. As well as experiment with Network Security Groups(NSGs).
 <br />
 
 
