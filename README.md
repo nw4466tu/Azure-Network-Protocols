@@ -10,6 +10,7 @@ This repository explains how to observe various network traffic to and from Azur
 
 - <b>PowerShell</b> 
 - <b>WireShark</b>
+- <b>Remote Desktop</b>
 
 <h2>Environments Used </h2>
 
