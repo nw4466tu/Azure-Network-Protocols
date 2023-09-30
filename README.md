@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this repository, we're going to look at the data traveling back and forth between your computer and Azure. We'll use simple tools like Wireshark and PowerShell to watch and understand how everything works. As well as expiriment with Network Security Groups (NSGs).
+In this repository, we're going to look at the data traveling back and forth between two virtual machines using Azure. We'll use simple tools like Wireshark and PowerShell to watch and understand how everything works. As well as expiriment with Network Security Groups (NSGs).
 <br />
 
 
