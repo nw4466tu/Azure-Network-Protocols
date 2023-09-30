@@ -14,7 +14,7 @@
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- <b>Ubuntu x64(Gen2)</b>
+- <b>Ubuntu</b> x64(Gen2)
 
 <h2></h2>
 
