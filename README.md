@@ -2,7 +2,7 @@
 <img src="https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Traffic%20Examination%20(VM)%20Picture.png?raw=true" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines (Cont.)</h1>
 
 
 <h2>Description</h2>
