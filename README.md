@@ -17,7 +17,7 @@ In this repository, we're going to look at the data traveling back and forth bet
 <h2>Operating Systems Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- <b>Ubuntu</b> x64(Gen2)
+- <b>Linux Ubuntu</b> x64(Gen2)
 
 <h2></h2>
 
