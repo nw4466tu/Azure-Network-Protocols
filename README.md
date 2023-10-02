@@ -28,7 +28,7 @@ In this repository, we're going to look at the data traveling back and forth bet
 <p>
 This is a cotinued lab from my other repository "VM Connection Lab", but in this one we are going to utilize tools like Powershell and Wireshark to read traffic between our two virtual machines using various different network protocols. 
 
-After we connect to the Windows virtual machine 
+After we connect to the Windows virtual machine, go to WireShark on the web and download it. This will allow us to observe traffic across various protocols. 
 <br />
 <br />
 <br />
