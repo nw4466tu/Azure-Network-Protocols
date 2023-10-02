@@ -6,7 +6,7 @@ In this repository, we're going to look at the data traveling back and forth bet
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Environments and Technologies Used</h2>
 
 - <b>PowerShell</b> 
 - <b>WireShark</b>
