@@ -26,7 +26,7 @@ In this repository, we're going to look at the data traveling back and forth bet
 <h2>Actions and Observations</h2>
 
 <p>
-This is a cotinued lab from my other repository "VM Connection Lab", but in this one we are going to use tools like Powershell and Wireshark to read traffic between oue two virtual machines using various different network protocols.  
+This is a cotinued lab from my other repository "VM Connection Lab", but in this one we are going to use tools like Powershell and Wireshark to read traffic between our two virtual machines using various different network protocols.  
 <br />
 <br />
 <br />
