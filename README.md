@@ -23,7 +23,7 @@ In this repository, we're going to look at the data traveling back and forth bet
 - <b>Windows 10</b> (21H2)
 - <b>Linux Ubuntu</b> x64(Gen2)
 
-<h2></h2>
+<h2>Actions and Observations</h2>
 
 <br />
 <br />
