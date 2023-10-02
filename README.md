@@ -1,4 +1,4 @@
-<h1>Azure Network Protocols</h1>
+<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
 
 
 <h2>Description</h2>
