@@ -1,3 +1,8 @@
+<p align="center">
+<img src="
+
+
+
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
 
 
