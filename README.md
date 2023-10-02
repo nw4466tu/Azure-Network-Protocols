@@ -32,8 +32,11 @@ After we connect to the Windows virtual machine, go to WireShark on the web and 
 <p>
 <br />
 
-![WireShark Download](
+![WireShark Download](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Download%20WireShark(Windows%2064x%20bit)%20with%20Default%20Settings.PNG?raw=true)
+
 <br />
+<p>
+
 <br />
 <br />
 <br />
