@@ -36,7 +36,7 @@ After we connect to the Windows virtual machine, go to WireShark on the web and 
 
 <br />
 <p>
-
+Once downloaded, go to quickstart and lool up WireShark. 
 <br />
 <br />
 <br />
