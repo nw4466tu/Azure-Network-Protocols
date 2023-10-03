@@ -40,7 +40,11 @@ Once downloaded, go to quickstart and lool up WireShark. From there we are going
 <p>
 <br />
 
-![Ethernet Icon](
+![Ethernet Icon](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Ethernet%20Icon%20on%20WireShark.PNG?raw=true)
+
+<br />
+<p>
+
 <br />
 <br />
 <br />
