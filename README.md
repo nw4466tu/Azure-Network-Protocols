@@ -44,7 +44,7 @@ Once downloaded, go to quickstart and lool up WireShark. From there we are going
 
 <br />
 <p>
-After, hit the small blue WireShark icon at the top left hand of the screen to start capturing packets.
+After, hit the small blue WireShark icon at the top left hand of the screen to start capturing packets. This is going to let us see the live traffic that's happening on our virtual machine. 
 <br />
 <br />
 <br />
