@@ -36,7 +36,11 @@ After we connect to the Windows virtual machine, go to WireShark on the web and 
 
 <br />
 <p>
-Once downloaded, go to quickstart and lool up WireShark. From there we are going to select the ethernet adaptor 
+Once downloaded, go to quickstart and lool up WireShark. From there we are going to select the ethernet adaptor.
+<p>
+<br />
+
+![Ethernet Icon](
 <br />
 <br />
 <br />
