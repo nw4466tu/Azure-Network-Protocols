@@ -44,7 +44,7 @@ Once downloaded, go to quickstart and lool up WireShark. From there we are going
 
 <br />
 <p>
-After, hit the small blue WireShark icon at the top left hand of the screen to start capturing packets. This is going to let us see the live traffic that's happening on our virtual machine. 
+After, hit the small blue WireShark icon at the top left hand of the screen to start capturing packets. This is going to let us see the live traffic that's happening on our virtual machine. As you see on the model below that you'll start to see just a bunch of random traffic even when were not doing anything. You'll see under the source IP address this 10.0.0.4, which is our private IP address that is sending traffic to all these random places on the internet. 
 <br />
 <br />
 <br />
