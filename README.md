@@ -48,7 +48,11 @@ After, hit the small blue WireShark icon at the top left hand of the screen to s
 <p>
 <br />
 
-![WireShark Traffic](
+![WireShark Traffic](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Traffic%20Within%20WireShark(Blue%20icon%20is%20to%20be%20able%20to%20start%20the%20tracking%20of%20traffic).PNG?raw=true)
+
+<br />
+<p>
+
 <br />
 <br />
 <br />
