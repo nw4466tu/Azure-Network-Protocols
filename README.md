@@ -93,7 +93,7 @@ To be able to see the results, we'll go back into our VM1 from remote desktop an
 
 <br />
 <p>
-And the same for WireShark, where it'll have our VM1 continuously requesting, but with no reply. If you want to allow it again, you would go back to the Azure portal, go to VM2-nsg and then click on the name of the rule we created. Instead of deny, hit allow and click save. Go back to VM1 connection and we'll start to see traffic replying back again.
+And the same for WireShark, where it'll have our VM1 continuously requesting, but with no reply. If you want to allow it again, you would go back to the Azure portal, go to VM2-nsg and then click on the name of the rule we created. Instead of deny, hit allow and click save. Go back to VM1 connection and we'll start to see traffic replying back again (or you can just delete it).
 <p>
 <br />
 
