@@ -60,7 +60,7 @@ First we are going to filter traffic by puting icmp at the top where you apply f
 
 <br />
 <p>
-This shows us pinging VM2 and it replying 4 seperate times, and then below it shows out of the four, how many were successfully received. It's the same for WireShark as well, where the source 10.0.0.4 is our VM1 address and the destination is our VM2 address 10.0.0.5. It sends an Echo (ping) request 
+This shows us pinging VM2 and it replying 4 seperate times, and then below it shows out of the four, how many were successfully received. It's the same for WireShark as well, where the source 10.0.0.4 is our VM1 address and the destination is our VM2 address 10.0.0.5. It sends an Echo (ping) request, and then on the next line it shows it, but in reverse how VM2 is Echo (ping) replying to the request successfully. 
 <br />
 <br />
 <br />
