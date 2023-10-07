@@ -68,7 +68,7 @@ This shows us pinging VM2 and it replying 4 seperate times, and then below it sh
 
 <br />
 <p>
-
+While this is pinging if you wanted to change the firewall on VM2, let's say to block ICMP 
 <br />
 <br />
 <br />
