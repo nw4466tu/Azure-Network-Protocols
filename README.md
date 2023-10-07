@@ -101,7 +101,7 @@ And the same for WireShark, where it'll have our VM1 continuously requesting, bu
 
 <br />
 <p>
-Next we are going to look at SSH traffic (which is a protocol that allows users to access a remote computer), so type SSH is the command line inside WireShark and hit enter. 
+Next we are going to look at SSH traffic (which is a protocol that allows users to access a remote computer), so type SSH is the command line inside WireShark and hit enter. And then in PowerShell instead of pinging VM2, we're going to SSH (or secure shell) into from VM1. 
 <br />
 <br />
 <br />
