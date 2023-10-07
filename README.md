@@ -81,7 +81,7 @@ It'll show the existing rules inside our VM2. Were going to create another rule 
 <p>
 <br />
 
-![NSG on VM2](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Creating%20settings%20for%20VM2%20NSG%20to%20block%20all%20ICMP%20traffic%20(Priority%20number%20is%20200%20so%20that%20it%20comes%20before%20300%20incase%20300%20was%20too%20allow%20all%20ICMP%20traffic).PNG?raw=true)
+![NSG on VM2](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Creating%20settings%20for%20VM2%20NSG%20to%20block%20all%20ICMP%20traffic%20(Priority%20number%20is%20200%20so%20that%20it%20comes%20before%20300%20incase%20300%20was%20too%20allow%20all%20ICMP%20traffic).PNG?raw=true) ![New NSG Settings](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/New%20Settings%20Implimented.PNG?raw=true)
 
 <br />
 <p>
