@@ -77,7 +77,7 @@ While this is pinging if you wanted to change the firewall on VM2, let's say to 
 
 <br />
 <p>
-
+It'll show the existing rules inside our VM2, 
 <br />
 <br />
 <br />
