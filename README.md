@@ -85,7 +85,15 @@ It'll show the existing rules inside our VM2. Were going to create another rule 
 
 <br />
 <p>
-To be able to see the results, we'll go back into our VM1 from remote desktop and look at PowerShell. It'll show how the ping immediately timed out. 
+To be able to see the results, we'll go back into our VM1 from remote desktop and look at PowerShell. It'll show how the ping immediately timed out.
+<p>
+<br />
+
+![Denied ping](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Once%20you%20apply%20the%20settings%20to%20the%20NSG%20your%20pings%20will%20be%20denied.PNG?raw=true)
+
+<br />
+<p>
+
 <br />
 <br />
 <br />
