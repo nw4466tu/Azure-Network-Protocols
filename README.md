@@ -77,7 +77,15 @@ While this is pinging if you wanted to change the firewall on VM2, let's say to 
 
 <br />
 <p>
-It'll show the existing rules inside our VM2. Were going to create another rule by clicking the add icon at the top. And then source is going to be from anywhere, but we can say specifically from VM1 if we wanted too. Source port ranges is fine, destination is fine with any as long as it's coming through this NSG. Leave service as custom, and change protocol to ICMP. Since we want to block traffic, we would chnage action to deny. One of the last options is priority which means in which order does the rule get evaluated in. As you can see on inbound security rules, it has SSH as 300 for the priority, but let's say this rule was for instance allow ICMP traffic, if we put it before the traffic would be denied. As well if we put it after like 310 or something, traffic would always be allowed. In this case we put 200 for the priority, and always write a descriptive name for your rule so you know how it works. 
+It'll show the existing rules inside our VM2. Were going to create another rule by clicking the add icon at the top. And then source is going to be from anywhere, but we can say specifically from VM1 if we wanted too. Source port ranges is fine, destination is fine with any as long as it's coming through this NSG. Leave service as custom, and change protocol to ICMP. Since we want to block traffic, we would chnage action to deny. One of the last options is priority which means in which order does the rule get evaluated in. As you can see on inbound security rules, it has SSH as 300 for the priority, but let's say this rule was for instance allow ICMP traffic, if we put it before the traffic would be denied. As well if we put it after like 310 or something, traffic would always be allowed. In this case we put 200 for the priority, and always write a descriptive name for your rule so you know how it works.
+<p>
+<br />
+
+![NSG on VM2](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Creating%20settings%20for%20VM2%20NSG%20to%20block%20all%20ICMP%20traffic%20(Priority%20number%20is%20200%20so%20that%20it%20comes%20before%20300%20incase%20300%20was%20too%20allow%20all%20ICMP%20traffic).PNG?raw=true)
+
+<br />
+<p>
+
 <br />
 <br />
 <br />
