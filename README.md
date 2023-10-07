@@ -93,7 +93,7 @@ To be able to see the results, we'll go back into our VM1 from remote desktop an
 
 <br />
 <p>
-
+And the same for WireShark, where it'll have our VM1 continuously requesting, but with no reply. 
 <br />
 <br />
 <br />
