@@ -97,7 +97,7 @@ And the same for WireShark, where it'll have our VM1 continuously requesting, bu
 <p>
 <br />
 
-![Reconnected Traffic](
+![Reconnected Traffic](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Once%20you%20allow%20the%20traffic%20again%20inside%20the%20NSG%20settings,%20it%20should%20begin%20replying%20to%20the%20requests%20again.PNG?raw=true)
 
 <br />
 <p>
