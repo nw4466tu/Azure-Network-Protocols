@@ -77,7 +77,7 @@ While this is pinging if you wanted to change the firewall on VM2, let's say to 
 
 <br />
 <p>
-It'll show the existing rules inside our VM2. Were going to create another rule by clicking the add icon at the top, and 
+It'll show the existing rules inside our VM2. Were going to create another rule by clicking the add icon at the top. And then source is going to be from anywhere, but we can say specifically from VM1 if we wanted too. 
 <br />
 <br />
 <br />
