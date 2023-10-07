@@ -15,7 +15,7 @@ In this repository, we're going to look at the data traveling back and forth bet
 - <b>PowerShell</b> 
 - <b>WireShark</b>
 - <b>Remote Desktop</b>
-- <b>Various Netork Protocols (SSH, DNS, HTTP/S, ICMP)
+- <b>Various Network Protocols (SSH, DNS, HTTP/S, ICMP)
 - <b>Microsoft Azure
 
 <h2>Operating Systems Used </h2>
