@@ -16,6 +16,7 @@ In this repository, we're going to look at the data traveling back and forth bet
 - <b>WireShark</b>
 - <b>Remote Desktop</b>
 - <b>Various Network Protocols (SSH, DNS, HTTP/S, ICMP)
+- <b>Firewalls
 - <b>Microsoft Azure
 
 <h2>Operating Systems Used </h2>
