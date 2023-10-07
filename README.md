@@ -52,7 +52,7 @@ After, hit the small blue WireShark icon at the top left hand of the screen to s
 
 <br />
 <p>
-First we are going to filter traffic by puting icmp at the top where you apply filters and hitting enter. This should cause the traffic to disappear. ICMP is the protocol that ping uses, and we use ping to test connectivity to different hosts on the internet or on a network. So in this part of the lab we are going to try and ping our VM2, and in order to do that, we must find out what our IP address is for it essentially. The IP address would be located when you click on virtual machines from the Azure portal (outside of the virtual machine). From there we would click VM2 and that would give us all the details inside our virtual machine. When we are pinging VM2, we want to use our private IP address and that would be under networking, so copy that. 
+First we are going to filter traffic by puting icmp at the top where you apply filters and hitting enter. This should cause the traffic to disappear. ICMP is the protocol that ping uses, and we use ping to test connectivity to different hosts on the internet or on a network. So in this part of the lab we are going to try and ping our VM2, and in order to do that, we must find out what our IP address is for it essentially. The IP address would be located when you click on virtual machines from the Azure portal (outside of the remote desk top VM). From there we would click VM2 and that would give us all the details inside our virtual machine. When we are pinging VM2, we want to use our private IP address and that would be under networking, so copy that. 
 <br />
 <br />
 <br />
