@@ -73,7 +73,11 @@ While this is pinging if you wanted to change the firewall on VM2, let's say to 
 <p>
 <br />
 
-![Inbound Security Rules](
+![Inbound Security Rules](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/Click%20on%20Inbound%20Security%20Rules%20(inside%20network%20security%20group%20NSG2)%20to%20deny%20traffic%20to%20VM2%20vis%20versa.PNG?raw=true)
+
+<br />
+<p>
+
 <br />
 <br />
 <br />
