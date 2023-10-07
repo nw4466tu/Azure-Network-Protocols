@@ -60,7 +60,7 @@ First we are going to filter traffic by puting icmp at the top where you apply f
 
 <br />
 <p>
-This shows us pinging VM2 and it replying 4 seperate times, and then below it shows out of the four, how many were successfully received. It's the same for WireShark as well, where the source 10.0.0.4 is our VM1 address and the destination is our VM2 address 10.0.0.5. It sends an Echo (ping) request, and then on the next line it shows it, but in reverse how VM2 is Echo (ping) replying to the request successfully. 
+This shows us pinging VM2 and it replying 4 seperate times, and then below it shows out of the four, how many were successfully received. It's the same for WireShark as well, where the source 10.0.0.4 is our VM1 address and the destination is our VM2 address 10.0.0.5. It sends an Echo (ping) request, and then on the next line it shows it, but in reverse how VM2 is Echo (ping) replying to the request successfully. If you were wanting to have a perpetual ping, you would (in PowerShell) put the same ping 10.0.0.5 but you would add -t next to it and hit enter. 
 <br />
 <br />
 <br />
