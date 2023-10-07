@@ -77,7 +77,7 @@ While this is pinging if you wanted to change the firewall on VM2, let's say to 
 
 <br />
 <p>
-It'll show the existing rules inside our VM2. Were going to create another rule by clicking the add icon at the top. And then source is going to be from anywhere, but we can say specifically from VM1 if we wanted too. Source port ranges is fine, destination is fine with any as long as it's coming through this NSG. Leave service as custom, and change protocol to ICMP. Since we want to block traffic, we would chnage action to deny. One of the last options is priority which means in which order does the rule get evaluated in. 
+It'll show the existing rules inside our VM2. Were going to create another rule by clicking the add icon at the top. And then source is going to be from anywhere, but we can say specifically from VM1 if we wanted too. Source port ranges is fine, destination is fine with any as long as it's coming through this NSG. Leave service as custom, and change protocol to ICMP. Since we want to block traffic, we would chnage action to deny. One of the last options is priority which means in which order does the rule get evaluated in. As you can see on inbound security rules, it has SSH as 300 for the priority, but 
 <br />
 <br />
 <br />
