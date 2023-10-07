@@ -60,7 +60,7 @@ First we are going to filter traffic by puting icmp at the top where you apply f
 
 <br />
 <p>
-
+This shows how 
 <br />
 <br />
 <br />
