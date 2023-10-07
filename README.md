@@ -64,7 +64,11 @@ This shows us pinging VM2 and it replying 4 seperate times, and then below it sh
 <p>
 <br />
 
-![Perpetual Ping](
+![Perpetual Ping](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/If%20you%20want%20a%20perpetual%20ping%20(you'd%20ping%20the%20private%20IP%20and%20then%20-t).PNG?raw=true)
+
+<br />
+<p>
+
 <br />
 <br />
 <br />
