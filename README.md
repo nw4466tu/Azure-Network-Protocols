@@ -56,7 +56,7 @@ First we are going to filter traffic by puting icmp at the top where you apply f
 <p>
 <br />
 
-![Pinging VM2](https://github.com/nw4466tu/Azure-Network Protocols/blob/main/Used%20Windows%20PowerShell%20to%20ping%20VM2%20Private%20IP%20to%20monitor%20traffic%20(using%20icmp%20protocol%20(ping)).PNG?raw=true)
+![Pinging VM2](https://github.com/nw4466tu/Azure-Network Protocols/blob/main/Used%20Windows%20PowerShell%20to%20ping%20VM2%20Private%20IP%20to%20monitor%20traffic%20(using%20icmp%20protocol%20(ping).PNG?raw=true)
 
 <br />
 <p>
