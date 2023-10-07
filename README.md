@@ -69,7 +69,11 @@ This shows us pinging VM2 and it replying 4 seperate times, and then below it sh
 
 <br />
 <p>
-While this is pinging if you wanted to change the firewall on VM2, let's say to not allow ICMP traffic to come through. Were going to minimize VM1 and go back to our Azure portal and search Network Security Groups (NSGs). 
+While this is pinging if you wanted to change the firewall on VM2, let's say to not allow ICMP traffic to come through. Were going to minimize VM1 and go back to our Azure portal and search Network Security Groups (NSGs). Click on VM2-nsg, and then click inbound security rules because we are going to block that traffic coming from ICMP.
+<p>
+<br />
+
+![Inbound Security Rules](
 <br />
 <br />
 <br />
