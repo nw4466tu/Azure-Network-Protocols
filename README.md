@@ -60,7 +60,7 @@ First we are going to filter traffic by puting icmp at the top where you apply f
 
 <br />
 <p>
-This shows how 
+This shows us pinging VM2 and it replying 4 seperate times, and then below it shows 
 <br />
 <br />
 <br />
