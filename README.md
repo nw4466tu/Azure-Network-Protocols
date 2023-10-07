@@ -85,7 +85,7 @@ It'll show the existing rules inside our VM2. Were going to create another rule 
 
 <br />
 <p>
-
+To be able to see the results, we'll go back into our VM1 from remote desktop and look at PowerShell. It'll show how the ping immediately timed out. 
 <br />
 <br />
 <br />
