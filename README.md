@@ -52,7 +52,7 @@ After, hit the small blue WireShark icon at the top left hand of the screen to s
 
 <br />
 <p>
-First we are going to filter traffic by puting icmp at the top where you apply filters and hitting enter. This should cause the traffic to disappear. ICMP is the protocol that ping uses, and we use ping to test connectivity to different hosts on the internet or on a network.  
+First we are going to filter traffic by puting icmp at the top where you apply filters and hitting enter. This should cause the traffic to disappear. ICMP is the protocol that ping uses, and we use ping to test connectivity to different hosts on the internet or on a network. So in this part of the lab we are going to try and ping our VM2, and in order to do that, we must find out what our IP address is for it essentially. 
 <br />
 <br />
 <br />
