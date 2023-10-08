@@ -109,7 +109,7 @@ Next we are going to look at SSH traffic (which is a protocol that allows users 
 
 <br />
 <p>
-Hit enter, and you'll start to see immediately when we tried to initiate the SSH connection, you saw some SSH traffic spam in WireShark. Then in PowerShell it'll ask you if you want to continue connecting, type yes and hit enter. After this it'll ask for the password that was created for the username:labuser. When you type the password in, you won't be able to see it due to security reasons by the way. So when you hit enter for that, it should connect to VM2, and you'll see that by at the bottom it says labuser@VM2 in green.    
+Hit enter, and you'll start to see immediately when we tried to initiate the SSH connection, you saw some SSH traffic spam in WireShark. Then in PowerShell it'll ask you if you want to continue connecting, type yes and hit enter. After this it'll ask for the password that was created for the username:labuser. When you type the password in, you won't be able to see it due to security reasons by the way. So when you hit enter for that, it should connect to VM2, and you'll see that by at the bottom it says labuser@VM2 in green. Since we're connecting to Linux, we will have to use those type of commands. For instance if we type id  
 <br />
 <br />
 <br />
