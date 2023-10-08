@@ -109,7 +109,7 @@ Next we are going to look at SSH traffic (which is a protocol that allows users 
 
 <br />
 <p>
-
+Hit enter, and you'll start to see immediately when we tried to initiate the SSH connection, you saw some SSH traffic spam in WireShark. Then in PowerShell it'll ask you if you want to continue connecting, type yes and hit enter. 
 <br />
 <br />
 <br />
