@@ -105,7 +105,11 @@ Next we are going to look at SSH traffic (which is a protocol that allows users 
 <p>
 <br />
 
-![SSH Example](
+![SSH Example](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/SSH%20Connecting%20to%20VM2%20via%20SSH%20code.PNG?raw=true)
+
+<br />
+<p>
+
 <br />
 <br />
 <br />
