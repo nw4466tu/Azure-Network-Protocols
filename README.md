@@ -101,7 +101,11 @@ And the same for WireShark, where it'll have our VM1 continuously requesting, bu
 
 <br />
 <p>
-Next we are going to look at SSH traffic (which is a protocol that allows users to access a remote computer), so type SSH is the command line inside WireShark and hit enter. And then in PowerShell instead of pinging VM2, we're going to SSH (or secure shell) into it from VM1. So in PowerShell type ssh then space, and then the username we used to create our VM's with (labuser). 
+Next we are going to look at SSH traffic (which is a protocol that allows users to access a remote computer), so type SSH is the command line inside WireShark and hit enter. And then in PowerShell instead of pinging VM2, we're going to SSH (or secure shell) into it from VM1. So in PowerShell type ssh then space, and then the username we used to create our VM's with (labuser), @ VM2's IP. So in the case it would look like this: ssh labuser@10.0.0.5.
+<p>
+<br />
+
+![SSH Example](
 <br />
 <br />
 <br />
