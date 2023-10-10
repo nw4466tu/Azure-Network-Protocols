@@ -125,7 +125,7 @@ Another more direct way (beyond the scope of this lab) to filter by SSH, would b
 
 <br />
 <p>
-
+One last (for this lab) way to filter traffic would be through DHCP. 
 <br />
 <br />
 <br />
