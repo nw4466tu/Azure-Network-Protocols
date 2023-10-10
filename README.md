@@ -133,7 +133,15 @@ Another way to filter traffic would be through DHCP. DHCP is used to automatical
 
 <br />
 <p>
-One last (for this lab) way to filter traffic would be through DNS. DNS is basically like the phonebook of the internet. It translates domain names like "www.google.com" into numeric IP addresses that computers use to identify each other on the internet. 
+One last (for this lab) way to filter traffic would be through DNS. DNS is basically like the phonebook of the internet. It translates domain names like "www.google.com" into numeric IP addresses that computers use to identify each other on the internet. Just like every port, type it into PowerShell and then in WireShark, in order to look it up we would type: nslookup www.google.com and hit enter. We should get an answer from DNS about some of googles IP addresses.
+<p>
+<br />
+
+![DNS Traffic](
+
+<br />
+<p>
+
 <br />
 <br />
 <br />
