@@ -129,7 +129,7 @@ One last (for this lab) way to filter traffic would be through DHCP. DHCP is use
 <p>
 <br />
 
-![DHCP Traffic](
+![DHCP Traffic](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/DHCP%20Showing%20(DHCP)%20traffic%20over%20the%20network%20and%20we%20got%20our%20IP%20address%20re-issued%20to%20us%20again.PNG?raw=true)
 
 <br />
 <p>
