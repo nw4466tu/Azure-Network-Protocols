@@ -125,7 +125,7 @@ Another more direct way (beyond the scope of this lab) to filter by SSH, would b
 
 <br />
 <p>
-One last (for this lab) way to filter traffic would be through DHCP. DHCP is used to automatically assign your IP address(usually something that happens on the background), and were going to force the renewal of an IP address. So in PowerShell were going to type: ipconfig /renew and when he hit enter, this VM1 is going to broadcast on our virtual network basically telling it to give us a new IP. Since were using Azure, the way it works is that there's actually a DHCP server inside the virtual network that's somewhat invisable, but that should re-issue our IP address to us. Once it's sent through WireShark, we should start to see traffic on PowerShell.
+Another way to filter traffic would be through DHCP. DHCP is used to automatically assign your IP address(usually something that happens on the background), and were going to force the renewal of an IP address. So in PowerShell were going to type: ipconfig /renew and when he hit enter, this VM1 is going to broadcast on our virtual network basically telling it to give us a new IP. Since were using Azure, the way it works is that there's actually a DHCP server inside the virtual network that's somewhat invisable, but that should re-issue our IP address to us. Once it's sent through WireShark, we should start to see traffic on PowerShell.
 <p>
 <br />
 
@@ -133,7 +133,7 @@ One last (for this lab) way to filter traffic would be through DHCP. DHCP is use
 
 <br />
 <p>
-
+One last (for this lab) way to filter traffic would be through DNS. DNS is basically like the phonebook of the internet. It translates domain names like "www.google.com" into numeric IP addresses that computers use to identify each other on the internet. 
 <br />
 <br />
 <br />
