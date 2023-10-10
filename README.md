@@ -109,11 +109,19 @@ Next we are going to look at SSH traffic (which is a protocol that allows users 
 
 <br />
 <p>
-Hit enter, and you'll start to see immediately when we tried to initiate the SSH connection, you saw some SSH traffic spam in WireShark. Then in PowerShell it'll ask you if you want to continue connecting, type yes and hit enter. After this it'll ask for the password that was created for the username:labuser. When you type the password in, you won't be able to see it due to security reasons by the way. So when you hit enter for that, it should connect to VM2, and you'll see that by at the bottom it says labuser@VM2 in green. Since we're connecting to Linux, we will have to use those type of commands. For instance if we type: id (if you wanted to find out the user and group names as well as numeric ID's of users on the server), you'd see more traffic get spammed on WireShark. We could also type: uname -a (prints system information), pwd (prints the full name/path of the current/working directory), ls -lasth (lists the folders and files in the current directory) and in this one we could make a file, like if we type: touch hi.txt hit enter then type: ls -lasth again we'll be able to see our file being created. And then to close our SSH connection just type: exit and hit enter.
+Hit enter, and you'll start to see immediately when we tried to initiate the SSH connection, you saw some SSH traffic spam in WireShark. Then in PowerShell it'll ask you if you want to continue connecting, type yes and hit enter. After this it'll ask for the password that was created for the username:labuser. When you type the password in, you won't be able to see it due to security reasons by the way. So when you hit enter for that, it should connect to VM2, and you'll see that by at the bottom it says labuser@VM2 in green. Since we're connecting to Linux, we will have to use those type of commands. For instance if we type: id (if you wanted to find out the user and group names as well as numeric ID's of users on the server), you'd see more traffic get spammed on WireShark. We could also type: uname -a (prints system information), pwd (prints the full name/path of the current/working directory), ls -lasth (lists the folders and files in the current directory) and in this one we could make a file, like if we type: touch hi.txt hit enter then type: ls -lasth again we'll be able to see our file being created. And then to close our SSH connection just type: exit and hit enter, then you'll be back in VM1's command line.
 <p>
 <br />
 
 ![Linux Commands](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/SSH%20Different%20types%20of%20commands%20using%20SSH%20protocol%20(and%20the%20traffic%20in%20it).PNG?raw=true)
+
+<br />
+<p>
+Another more direct way (beyond the scope of this lab) to filter by SSH, would be to filter WireShark by: tcp.port == 22 because SSH uses port 22. So when we hit enter, it'll start filtering by this port which again is SSH.
+<p>
+<br />
+
+![tcp.port == 22](
 
 <br />
 <p>
