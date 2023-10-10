@@ -137,7 +137,7 @@ One last (for this lab) way to filter traffic would be through DNS. DNS is basic
 <p>
 <br />
 
-![DNS Traffic](
+![DNS Traffic](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/DNS%20Traffic.PNG?raw=true)
 
 <br />
 <p>
