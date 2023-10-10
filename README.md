@@ -121,7 +121,7 @@ Another more direct way (beyond the scope of this lab) to filter by SSH, would b
 <p>
 <br />
 
-![tcp.port == 22](
+![tcp.port == 22](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/SSH%20Or%20a%20more%20direct%20way%20to%20connect%20to%20VM2%20via%20SSH.PNG?raw=true)
 
 <br />
 <p>
