@@ -113,7 +113,7 @@ Hit enter, and you'll start to see immediately when we tried to initiate the SSH
 <p>
 <br />
 
-![Linux Commands](
+![Linux Commands](https://github.com/nw4466tu/Azure-Network-Protocols/blob/main/SSH%20Different%20types%20of%20commands%20using%20SSH%20protocol%20(and%20the%20traffic%20in%20it).PNG?raw=true)
 
 <br />
 <p>
